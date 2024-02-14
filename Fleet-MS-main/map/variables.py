@@ -1,0 +1,22 @@
+arabic_male_names = [
+    "Mohammed",
+    "Ahmed",
+    "Ali",
+    "Omar",
+    "Youssef",
+    "Abdullah",
+    "Mahmoud",
+    "Amir",
+    "Fahad",
+    "Khalid",
+    "Hassan",
+    "Hussein",
+    "Tariq",
+    "Ibrahim",
+    "Karim",
+    "Nasser",
+    "Yasin",
+    "Hamza",
+    "Jaber",
+    "Salim"
+]

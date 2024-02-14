@@ -1,0 +1,11 @@
+.outlet{
+    padding-top: 70px;
+    transition: 1s all;
+  }
+
+  @media (max-width: 768px) {
+    .outlet {
+      padding-left:  1rem !important;
+      padding-right:  1rem !important;
+       }
+  }

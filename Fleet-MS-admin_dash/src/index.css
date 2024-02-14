@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@300&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Heebo&family=Montserrat+Alternates&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+body {
+  background-color: #ececec50;
+  font-family: Montserrat Alternates;
+}
+.navbar-collapse {
+  display: block;
+}
+.collapse.show {
+  display: block;
+}
+a{
+  text-decoration: none;
+}

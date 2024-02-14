@@ -1,0 +1,12 @@
+.li-item {
+    margin: 5px;
+    list-style-type: circle;
+    color: gray;
+}
+.li-item:hover{ 
+    transition: 1s all;
+    translate: 5px;
+}
+.li-item:hover a { 
+    color: white !important;
+}

@@ -1,0 +1,23 @@
+.cart:hover {
+   transform: scale(1.12);
+   transition: .2s all ease ;
+   cursor: pointer;
+}
+.cart h4 {
+    font-weight: 700;
+    color: #012970;
+}
+.card-icon{
+     margin-right: 8px; 
+    line-height: 0;
+    width: 64px;
+    height: 64px;
+    flex-shrink: 0;
+    flex-grow: 0;
+    border-radius: 50%;
+}
+@media (min-width: 1200px) {
+    .col-xl-3 {
+        width: 25% !important;
+    }
+}
